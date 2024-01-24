@@ -1,3 +1,5 @@
+this.firstName='Grace';
+this.lastName='Hopper';
 const person = {
  firstName: 'Grace',
  lastName: 'Hopper',
